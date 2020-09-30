@@ -11,6 +11,7 @@ jedi = "*"
 
 [packages]
 requests = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
